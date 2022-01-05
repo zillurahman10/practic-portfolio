@@ -1,3 +1,19 @@
-style{
+body{
     font-family: 'Luxurious Roman', cursive;
+}
+span{
+    color: forestgreen;
+}
+section{
+    display: flex;
+    margin-bottom:100px ;
+}
+.half width{
+    width: 50%;
+}
+.half width img{
+    width: 100%;
+}
+h1{
+    font-size: 50px
 }
